@@ -28,7 +28,7 @@ run
 - step over: ```stepi```
 - get register data: ```info registers <register_name for example eax or eflags```
 - get data at offset: ```x/x 0x<address>```
-- get number of bytes starting at offset: ```x/<number> 0x<address>```
+- get data of n bytes starting at offset: ```x/<number> 0x<address>```
 
 ## x86 assembly syntax (intel)
 ### Example script:
