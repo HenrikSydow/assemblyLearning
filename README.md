@@ -3,6 +3,11 @@ This repository contains some beginner assembly scripts. (x86 / intel)
 Written for use with nasm on Ubuntu.
 Useful commands can be found in this readme file.
 
+## useful links for reference
+- [List of intel x86 flags](https://riptutorial.com/x86/example/6976/flags-register)
+- [ASCII Table](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ASCII-Table-wide.svg/2560px-ASCII-Table-wide.svg.png)
+- [intel x86 assembly YouTube series by OliveStem](https://www.youtube.com/watch?v=yBO-EJoVDo0&list=PL2EF13wm-hWCoj6tUBGUmrkJmH1972dBB)
+
 ## run using nasm
 ```bash
 nasm -f elf -o <file_name>.o <file_name>.s
