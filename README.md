@@ -30,6 +30,12 @@ run
 - get data at offset: ```x/x 0x<address>```
 - get data of n bytes starting at offset: ```x/<number> 0x<address>```
 
+## x86 architecture
+![x86_transparent](https://github.com/HenrikSydow/assemblyLearning/assets/73906135/3c694116-3b93-413e-8346-5622bfc4adb3)
+
+
+
+
 ## x86 assembly syntax (intel)
 ### Example script:
 Moves the value 2 to register a.  
